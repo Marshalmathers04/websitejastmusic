@@ -1,0 +1,100 @@
+.box{
+    background-image: url(pic/back.avif); 
+    background-size: cover;
+    height: 15cm;
+    background-repeat: no-repeat;
+}
+.txt{
+    padding-top: 22%;
+    padding-left: 15%;
+    font-style: italic;
+    color: rgb(32, 41, 49);
+    font-size: 275%;
+}
+body{
+    background-color: rgba(255, 251, 0, 0.8);
+}
+.musict{
+    padding-left: 15%;
+    font-style: italic;
+    color: rgb(87, 158, 190);
+    font-size: 275%;
+}
+.toqa{
+    padding-top: 1%;
+}
+.surat{
+    height: 550px;
+    width: 500px;
+    padding-top: 3%;
+    border-radius: 20%;
+}
+.toqtxt{
+    color: rgb(13, 151, 8);
+    font-style: italic;
+    font-size: 1.3cm;
+}
+.audiotoqa{
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 80%;
+    margin-top: 1cm;
+}
+.manotxt{
+    color: rgb(13, 151, 8);
+    font-style: italic;
+    font-size: 1.3cm;    
+}
+.manoimg{
+    height: 550px;
+    width: 500px;
+    padding-top: 3%;
+    border-radius: 20%;
+}
+.audiomano{
+    background-color: rgba(228, 64, 64, 0.3);
+    width: 80%;
+    margin-top: 1cm;
+}
+.audiodontcry{
+    background-color: rgba(40, 26, 238, 0.6);
+    width: 80%;
+    margin-top: 1cm;
+}
+.dontcryimg{
+    height: 550px;
+    width: 700px;
+    padding-top: 3%;
+    border-radius: 20%;
+}
+.dontcrytxt{
+    color: rgb(136, 185, 135);
+    font-style: italic;
+    font-size: 1.3cm;
+}
+.mamaudio{
+    background-color: rgba(20, 136, 145, 0.6);
+    width: 80%;
+    margin-top: 1cm;
+}
+.mamaimg{
+    height: 550px;
+    width: 700px;
+    padding-top: 3%;
+    border-radius: 20%;
+}
+.mamatxt{
+    color: rgb(23, 33, 172);
+    font-style: italic;
+    font-size: 1.3cm;
+}
+.links{ 
+    margin-top: 2cm;
+    background-color: rgba(0, 0, 190, 0.6);
+    height: 4cm;
+    width: auto;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    font-size: 0.7cm;
+}
